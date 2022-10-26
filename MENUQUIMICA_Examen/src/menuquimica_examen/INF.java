@@ -10,7 +10,6 @@ import java.awt.Image;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.border.MatteBorder;
-
  import menuquimica_examen.Principal;
 /**
  *

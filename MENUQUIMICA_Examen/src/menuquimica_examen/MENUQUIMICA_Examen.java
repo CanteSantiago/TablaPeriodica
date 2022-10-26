@@ -14,7 +14,8 @@ public class MENUQUIMICA_Examen {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
        
         Principal a=new Principal();
        
